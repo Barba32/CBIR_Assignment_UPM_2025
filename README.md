@@ -11,3 +11,6 @@ presented in this two documents, because it was too huge.
 The index previously created has been removed because of the weight.
 To create it again only run the app in the terminal with the command: python main.py
 It would take some time because of the quality of the images but will create the file: cbir_index.pkl
+
+## COMPLETE APPLICATION:
+The complete application is avaible in the release section
